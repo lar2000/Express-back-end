@@ -1,0 +1,44 @@
+[
+    {
+      "id": 8,
+      "user_id": "TY123",
+      "firstName": "lar",
+      "lastName": "yang",
+      "gender": "ຊາຍ",
+      "email": "laryangbm.2000@gmail.com",
+      "password": "$2y$12$j2j4RORhJJGuhMaL75nyt.7Wgplum9EYozANxDAsnwOwi8isyEYrS",
+      "phoneNumber": "91711267",
+      "profile_path": "profiles/YTU1bzbeDYuvy9KsQrn64MlAmPRsIW3TfBaMUJRL.jpg",
+      "remember_token": null,
+      "created_at": "2024-07-30T12:13:52.000Z",
+      "updated_at": "2024-07-30T12:13:52.000Z"
+    },
+    {
+        "id": 9,
+        "user_id": "TA123",
+        "firstName": "lar",
+        "lastName": "yang",
+        "gender": "ຊາຍ",
+        "email": "laryangbm.2000@gmail.com",
+        "password": "$2y$12$j2j4RORhJJGuhMaL75nyt.7Wgplum9EYgeozANxDAsnwOwi8isyEYrS",
+        "phoneNumber": "91711267",
+        "profile_path": "profiles/YTU1bzbeDYuvy9KsQrn64MlAmPRsIW3TfBaMUJRL.jpg",
+        "remember_token": null,
+        "created_at": "2024-07-30T12:13:52.000Z",
+        "updated_at": "2024-07-30T12:13:52.000Z"
+      },
+      {
+        "id": 10,
+        "user_id": "TB123",
+        "firstName": "lar",
+        "lastName": "yang",
+        "gender": "ຊາຍ",
+        "email": "laryangbm.2000@gmail.com",
+        "password": "$2y$12$j2j4RORhJJGuhMaL75nyt.7Wgplum9EYodfdgzANxDAsnwOwi8isyEYrS",
+        "phoneNumber": "91711267",
+        "profile_path": "profiles/YTU1bzbeDYuvy9KsQrn64MlAmPRsIW3TfBaMUJRL.jpg",
+        "remember_token": null,
+        "created_at": "2024-07-30T12:13:52.000Z",
+        "updated_at": "2024-07-30T12:13:52.000Z"
+      }
+  ]
