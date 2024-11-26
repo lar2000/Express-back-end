@@ -1,4 +1,4 @@
-// apiroom/db.js
+
 const mysql = require('mysql2');  // import mysql in mysql
 
 // Create and export the MySQL connection
